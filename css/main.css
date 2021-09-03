@@ -1,0 +1,40 @@
+body{
+    box-sizing: border-box;
+} 
+.sec1 .container {
+ border-bottom: 1px solid #333;
+ 
+ 
+ 
+}
+.sec1 .container h2{
+color: #888;
+}
+.container p{
+    font-size: 18px;
+    color: #333;;
+    font-weight: bold;
+}
+ footer .container{
+     border-top: 1px solid #333; 
+     margin-top: 30px;
+     
+ }
+ footer .container p{
+    color: #888;
+ }
+ .container #tabelBody{
+     background-image: linear-gradient(#EEE,#FFF);
+    
+ }
+ .btn{
+     margin: 15px 10px;
+     cursor: pointer;
+ }
+.btn:hover{
+    box-shadow: 2px 5px 3px 0px #888;
+}
+
+input:hover{
+border:2px solid #333;
+}
